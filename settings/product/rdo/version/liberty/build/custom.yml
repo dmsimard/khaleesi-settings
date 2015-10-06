@@ -1,0 +1,4 @@
+---
+product:
+  repo:
+    delorean_pin_version: !env delorean_pin_version
